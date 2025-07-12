@@ -8,7 +8,7 @@ Possuo a certificação CPA-10 da ANBIMA, a qual me capacitou no entendimento me
 e investimentos financeiros.
 
 <p align="center">
-  <a href="www.linkedin.com/in/pedro-barros-aa02402b2">
+  <a href="https://www.linkedin.com/in/pedro-barros-aa02402b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro Barros-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
