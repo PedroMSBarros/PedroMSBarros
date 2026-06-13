@@ -2,9 +2,9 @@
 
 **Estudante de Ciência da Computação | Cybersecurity Enthusiast | Full-Stack Developer**
 
-Baseado em São Paulo 🇧🇷. Cursando Ciência da Computação na UNINOVE. Focado em Segurança da Informação (SOC, Pentest) e desenvolvimento full-stack. Fundador da [Metazoa Store](https://metazoa-store.vercel.app), e-commerce de peixes ornamentais com 460+ espécies catalogadas.
+Baseado em São Paulo 🇧🇷. Cursando Ciência da Computação na UNINOVE. Focado em Segurança da Informação (SOC, Pentest) e desenvolvimento full-stack. Fundador da [Metazoa Store](https://metazoastore.vercel.app/#/), e-commerce de peixes ornamentais com 460+ espécies catalogadas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroms-barros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-barros-aa02402b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroMSBarros)
 
 ---
@@ -51,9 +51,6 @@ E-commerce de peixes ornamentais construído do zero com React 19, Vite, Tailwin
 ### [Metazoa Finanças](https://metazoa-financas.vercel.app)
 Sistema de controle financeiro completo para o negócio: registro de vendas multi-item, KPIs mensais, metas de receita, painel de insights automatizado e autenticação via GitHub OAuth. Stack: React + Supabase.
 
-### [FinanceAnalytics](https://github.com/PedroMSBarros/FinanceAnalytics)
-Projeto de análise de dados financeiros com Python, pandas, scikit-learn, Streamlit e SQLite.
-
 ---
 
 ## 📊 GitHub Stats
@@ -69,4 +66,4 @@ Projeto de análise de dados financeiros com Python, pandas, scikit-learn, Strea
 
 Aberto a oportunidades em **Cybersecurity** (SOC Analyst, Junior Pentester), **Help Desk / IT Support** e **Desenvolvimento Full-Stack**.
 
-📧 Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/pedroms-barros)
+📧 Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/pedro-barros-aa02402b2/)
