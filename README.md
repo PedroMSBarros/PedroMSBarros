@@ -57,8 +57,8 @@ Sistema de controle financeiro completo para o negócio: registro de vendas mult
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=PedroMSBarros&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMSBarros&layout=compact&theme=dark&hide_border=true)
+![](https://github-stats-extended.vercel.app/api?username=PedroMSBarros&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=PedroMSBarros&layout=compact&theme=dark&hide_border=true)
 
 ---
 
