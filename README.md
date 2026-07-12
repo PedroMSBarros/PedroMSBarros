@@ -45,6 +45,10 @@ Baseado em São Paulo 🇧🇷. Cursando **Defesa Cibernética na Impacta**. Foc
 
 Laboratório de detecção de ameaças construído do zero com Wazuh SIEM, Sysmon e VirtualBox. Simulação e detecção de 3 ataques reais (Brute Force, PowerShell Abuse, Privilege Escalation), com mapeamento completo ao MITRE ATT&CK e evidência forense documentada.
 
+### [AI SOC Analyst Assistant](https://github.com/PedroMSBarros/AI-SOC-Analyst)
+
+Assistente de triagem e investigação de alertas de segurança sobre o Mini SOC Lab, com roteamento em duas camadas de modelos Claude (Haiku para triagem, Sonnet para investigação profunda). Deduplicação reduziu o custo de operação pela metade em uso real; validado contra ataques reais via Kali/Metasploit, incluindo a descoberta de um gap de visibilidade no ruleset padrão do Wazuh.
+
 ### [Metazoa Store](https://metazoa-store.vercel.app)
 
 E-commerce de peixes ornamentais construído do zero com React 19, Vite, Tailwind CSS, Supabase e PostgreSQL. Catálogo com 460+ espécies, carrinho integrado ao WhatsApp, PWA, busca em tempo real e backend protegido com RLS.
