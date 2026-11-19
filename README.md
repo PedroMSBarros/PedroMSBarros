@@ -63,7 +63,8 @@ Assistente de triagem e investigação de alertas que consome o Wazuh Indexer e 
 E-commerce de aquarismo em produção, construído do zero com **React 19, Vite, Tailwind CSS e Supabase**. Catálogo com **600+ peixes e plantas e 900+ produtos** em 30+ categorias, de água doce e marinha, carrinho integrado ao WhatsApp, PWA e backend protegido com RLS. Destaques técnicos:
 - Migração de 700+ imagens para o **Cloudinary** com script idempotente e retry automático, com otimização de imagem por URL
 - Sistema de **variantes de tamanho** (um card por espécie, seletor de tamanho)
-- Busca unificada com correspondência aproximada (Fuse.js) e paginação client-side
+- **Motor de busca próprio**: palavras em qualquer ordem, comparação fonética, tolerância a erros de digitação (distância Damerau), sinônimos do aquarismo e ranking por relevância
+- Carrossel de novidades na Home e paginação client-side
 - Experiência mobile-first — a maior parte do tráfego vem do celular
 
 🔗 [metazoastore.vercel.app](https://metazoastore.vercel.app/#/)
